@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	padding:0;
+}
+section{
+	background-image:url("background.png");
+	height:100%;
+	width:100%;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+nav{
+	height:100%;
+	width:20%;
+	background-color: whitesmoke ;
+	float: left;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	text-decoration: none;
+}
